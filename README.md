@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Willkommen auf dem Polystammtisch Dortmund!
+Hallo zusammen, 
 
-You can use the [editor on GitHub](https://github.com/tburny/polyamorie-dortmund/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+es gibt nun wieder einen Dortmunder Poly-Stammtisch, der regelmäßig statt finden soll.
+as erste Treffen ist nächsten Samstag, den 18. April um 19 Uhr.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🕖 **Wann:** Jeden 3. Samstag im Monat um 19 Uhr. Termine 2019: 16.5., 20.6., 18.7., 15.8.
+📌 **Wo:** Aktuell per Jitsi unter https://8x8.vc/polydo/Hausflur
 
-### Markdown
+Sobald sich die Ansteckungsgefahr für Corona wieder ausreichend reduziert hat
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Wie nehme ich teil?
+### Per Laptop
+Klicke auf den Link. Die Aufforderung zum Installieren der Chrome-Erweiterung kannst du getrost ignorieren.
 
-```markdown
-Syntax highlighted code block
+### per Smartphone
+1. Tippe auf den Link oben. Es erscheint ein Fenster.
+2. Tippe auf "Continue to the App". Installiere diese (du musst dich nicht registrieren)
+3. Tippe erneut auf den Link oben
 
-# Header 1
-## Header 2
-### Header 3
+### Ablauf
 
-- Bulleted
-- List
+Der _Hausflur_ ist nur der Vorraum und dient dem Schutz vor Trollen. Wir schicken dir den Link zum richtigen Raum dann per Nachricht in 8x8.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tburny/polyamorie-dortmund/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Weitere Informationen
+Es gibt eine Telegram-Gruppe, den Link verteilen wir jedoch nur auf dem Online-Stammtisch
