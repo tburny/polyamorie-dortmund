@@ -10,7 +10,7 @@ Sobald sich die Ansteckungsgefahr für Corona wieder ausreichend reduziert hat s
 16.5., 20.6., 18.7., 15.8., 19.9., 17.10., 21.11., 19.12.
 
 ## Wie nehme ich teil?
-**..per Computer**
+**... 💻 per Computer**
 Klicke auf den Link. Die Aufforderung zum Installieren der Chrome-Erweiterung kannst du getrost ignorieren.
 
 **... 📲 per Smartphone**
