@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-sitemap
-is_project_page: false
+github:
+  is_project_page: false
 show_downloads: false
