@@ -10,6 +10,8 @@ Sobald sich die Ansteckungsgefahr für Corona wieder ausreichend reduziert hat s
 16.5., 20.6., 18.7., 15.8., 19.9., 17.10., 21.11., 19.12.
 
 ## Wie nehme ich teil?
+**Wichtig:** Der _Hausflur_ ist nur der Vorraum und dient dem Schutz vor Trollen. Wir schicken dir den Link zum richtigen Raum dann per Direkt-Nachricht im Videochat.
+
 **... 💻 per Computer**
 Klicke auf den Link. Die Aufforderung zum Installieren der Chrome-Erweiterung kannst du getrost ignorieren.
 
@@ -18,13 +20,10 @@ Klicke auf den Link. Die Aufforderung zum Installieren der Chrome-Erweiterung ka
 2. Tippe auf "Continue to the App". Installiere diese (du musst dich nicht registrieren)
 3. Tippe erneut auf den Link oben
 
-### Ablauf
-Der _Hausflur_ ist nur der Vorraum und dient dem Schutz vor Trollen. Wir schicken dir den Link zum richtigen Raum dann per Direkt-Nachricht im Videochat.
-
-### Organisation
+## Telegram-Gruppe
 Es gibt eine Telegram-Gruppe, den Link verteilen wir jedoch nur auf dem Online-Stammtisch
 
-# Andere Stammtische in der Region
+## Andere Stammtische in der Region
 Unter https://www.polyamory.de/regionale-treffen-de findest du rechts eine Liste an regionalen Treffen, die nach Postleitzahl sortiert sind. Unten findest du daher nur einen kleinen Auszug, der auch die Corona-Krise berücksichtigt.
 
 | Corona-Status | Stadt        |
