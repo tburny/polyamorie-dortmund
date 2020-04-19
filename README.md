@@ -23,8 +23,8 @@ Klicke auf den Link. Die Aufforderung zum Installieren der Chrome-Erweiterung ka
 ## Telegram-Gruppe
 Es gibt eine Telegram-Gruppe, den Link verteilen wir jedoch nur auf dem Online-Stammtisch
 
-## Andere Stammtische in der Region
-Unter https://www.polyamory.de/regionale-treffen-de findest du rechts eine Liste an regionalen Treffen, die nach Postleitzahl sortiert sind. Unten findest du daher nur einen kleinen Auszug, der auch die Corona-Krise berücksichtigt.
+## Andere Stammtische in der Region Nordrhein-Westfalen
+Auf der Seite des [Polyamores Netzwerk e.V.](https://www.polyamory.de/regionale-treffen-de) findest du rechts eine Liste an regionalen Treffen, die nach Postleitzahl sortiert sind. Unten findest du daher nur einen kleinen Auszug, der auch die Corona-Krise berücksichtigt.
 
 | Corona-Status | Stadt        |
 | ------------- | -------------|
