@@ -1,7 +1,8 @@
 ## Willkommen auf dem Polystammtisch Dortmund!
  
 🕖 **Wann:** Jeden 3. Samstag im Monat um 19 Uhr.
-📌 **Wo:** Aktuell per Jitsi unter https://8x8.vc/polydo/Hausflur
+
+📌 **Wo:** Aktuell per Jitsi unter [https://8x8.vc/polydo/Hausflur](https://8x8.vc/polydo/Hausflur)
 
 💡 Sobald sich die Ansteckungsgefahr für Corona wieder ausreichend reduziert hat suchen wir uns eine feste Örtlichkeit für unsere Treffen.
 
