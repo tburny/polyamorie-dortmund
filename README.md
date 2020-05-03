@@ -21,16 +21,21 @@ Klicke auf den Link. Die Aufforderung zum Installieren der Chrome-Erweiterung ka
 3. Tippe erneut auf den Link oben
 
 ## Telegram-Gruppe
-Damit unsere Gruppe nicht zugespammt oder getrollt wird, gibt es unseren Hausflur: https://t.me/joinchat/HIGCOFcKw4eQbhBY3PeCIQ
+Damit unsere Gruppe nicht zugespammt oder getrollt wird, trete unserem _Hausflur_ bei: https://t.me/joinchat/HIGCOFcKw4eQbhBY3PeCIQ
 
-Dort schicken wir dir eine Nachricht mit dem richtigen Link oder fügen dich gerne direkt hinzu. Um unsere Community zu schützen stellen wir dir möglicherweise 1-2 einfache Fragen zum Thema Poly.
+Dort schicken wir dir eine Nachricht mit dem richtigen Link oder fügen dich gerne direkt hinzu. 
 
 ## Andere Stammtische in der Region Nordrhein-Westfalen
-Auf der Seite des [Polyamores Netzwerk e.V.](https://www.polyamory.de/regionale-treffen-de) findest du rechts eine Liste an regionalen Treffen zum Thema Polyamorie, die nach Postleitzahl sortiert sind. Unten findest du daher nur einen kleinen Auszug, der auch die Corona-Krise berücksichtigt.
+Auf der Seite des [Polyamores Netzwerk e.V.](https://www.polyamory.de/regionale-treffen-de) findest du rechts eine Liste an regionalen Treffen zum Thema Polyamorie, die nach Postleitzahl sortiert sind. Unten findest du daher nur einen kleinen Auszug, der auch Online-Stammtische während der Corona-Herausforderung berücksichtigt.
 
 | Corona-Status | Stadt        |
 | ------------- | -------------|
 | 🌍 Online     | [Aachen](https://polyamorie-aachen.de/) |
-| 🌍 Online     | [Essen](https://www.polyamory.de/regionale-treffen-de) |
+| ❓ Unbekannt  | [Bonn](https://www.polyamory.de/polyamorie-stammtisch-bonn-bonner-polygespraechskreis) |
+| 🌍 Online     | [Dortmund (dieser Stammtisch)](https://polyamorie-dortmund.de/) |
+| ❓ Unbekannt  | [Düsseldorf](https://polytreff.wordpress.com/termine/) |
+| 🌍 Online     | [Essen](https://www.facebook.com/groups/980135342024444/) |
 | 🌍 Online     | [Köln](https://www.poly-koeln.de/termine/) |
 | ⏸️ Pausiert   | [Münster](https://polyamorie-muenster.blogspot.com/)
+| 🌍 Online     | [Soest](https://www.polyamory.de/papageienstammtisch-soest) |
+| ❓ Unbekannt  | [Vechta](https://anders-lieben-vechta.de/) |
