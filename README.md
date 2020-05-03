@@ -32,3 +32,25 @@ Klicke auf den Link. Die Aufforderung zum Installieren der Chrome-Erweiterung ka
 ... findest du auf [dieser Seite](/andere-stammtische)
 
 <script src="/assets/scripts/termine.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "Polystammtisch Dortmund",
+  "startDate": "2020-05-16T19:00:00+02:00",
+  "endDate": "2020-05-16T22:00+02:00",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "https://polystammtisch-dortmund.de/"
+    },
+  "image": [],
+  "description": "Online-Stammtisch für nicht-monogame Beziehungsformen",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Polystammtisch Dortmund",
+    "url": "https://polystammtisch-dortmund.de/"
+  }
+}
+ </script>
