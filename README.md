@@ -7,9 +7,12 @@
 💡 Sobald sich die Ansteckungsgefahr für Corona wieder ausreichend reduziert hat suchen wir uns eine feste Örtlichkeit für unsere Treffen.
 
 ### Termine 2019: 
-16.5., 20.6., 18.7., 15.8., 19.9., 17.10., 21.11., 19.12.
+16.5., 20.6., 18.7., 15.8., 19.9., 17.10., 21.11., 19.12. 
 
 Nächster Stammtisch: <span id='next'></span>
+
+iCal: (Zum Kalender hinzufügen)[/Polystammtisch_Dortmund.ics]
+
 
 ## Wie nehme ich teil?
 **Wichtig:** Der _Hausflur_ ist nur der Vorraum und dient dem Schutz vor Trollen. Wir schicken dir den Link zum richtigen Raum dann per Direkt-Nachricht im Videochat.
@@ -59,7 +62,7 @@ now = new Date(now.getFullYear(), now.getMonth(), now.getDate())
 return  now <= thisSaturday ? thisSaturday : nextSaturday;
 }
 
-val next = nextRoundtable();
+let next = nextRoundtable();
 document.getElementById('next').innerHTML = next.getDate() + '.' + (next.getMonth() + 1) + '.';
 </script>
 
