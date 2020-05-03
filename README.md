@@ -27,5 +27,3 @@ Dort schicken wir dir eine Nachricht mit dem richtigen Link oder fügen dich dir
 
 ## Andere Stammtische in der Region Nordrhein-Westfalen
 ... findest du auf [dieser Seite](/andere-stammtische)
-
-<script>document.write("Test")</script>
