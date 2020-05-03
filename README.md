@@ -4,6 +4,8 @@
 
 📌 **Wo:** Aktuell per Jitsi unter [https://8x8.vc/polydo/Hausflur](https://8x8.vc/polydo/Hausflur)
 
+✈️ **Telegram-Gruppe:** [Hier beitreten](https://t.me/joinchat/HIGCOFcKw4eQbhBY3PeCIQ). Wir leiten dich dann weiter
+
 💡 Sobald sich die Ansteckungsgefahr für Corona wieder ausreichend reduziert hat suchen wir uns eine feste Örtlichkeit für unsere Treffen.
 
 ### Termine 2019: 
@@ -24,11 +26,6 @@ Klicke auf den Link. Die Aufforderung zum Installieren der Chrome-Erweiterung ka
 1. Tippe auf den Link oben. Es erscheint ein Fenster.
 2. Tippe auf "Continue to the App". Installiere diese (du musst dich nicht registrieren)
 3. Tippe erneut auf den Link oben
-
-## Telegram-Gruppe
-Damit unsere Gruppe nicht zugespammt oder getrollt wird, trete unserem _Hausflur_ bei: https://t.me/joinchat/HIGCOFcKw4eQbhBY3PeCIQ
-
-Dort schicken wir dir eine Nachricht mit dem richtigen Link oder fügen dich direkt hinzu. 
 
 ## Andere Stammtische in der Region Nordrhein-Westfalen
 ... findest du auf [dieser Seite](/andere-stammtische)
