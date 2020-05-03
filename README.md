@@ -23,7 +23,7 @@ Klicke auf den Link. Die Aufforderung zum Installieren der Chrome-Erweiterung ka
 ## Telegram-Gruppe
 Damit unsere Gruppe nicht zugespammt oder getrollt wird, trete unserem _Hausflur_ bei: https://t.me/joinchat/HIGCOFcKw4eQbhBY3PeCIQ
 
-Dort schicken wir dir eine Nachricht mit dem richtigen Link oder fügen dich gerne direkt hinzu. 
+Dort schicken wir dir eine Nachricht mit dem richtigen Link oder fügen dich direkt hinzu. 
 
 ## Andere Stammtische in der Region Nordrhein-Westfalen
 ... findest du auf [dieser Seite](/andere-stammtische)
