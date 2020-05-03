@@ -26,4 +26,4 @@ Damit unsere Gruppe nicht zugespammt oder getrollt wird, trete unserem _Hausflur
 Dort schicken wir dir eine Nachricht mit dem richtigen Link oder fügen dich gerne direkt hinzu. 
 
 ## Andere Stammtische in der Region Nordrhein-Westfalen
-... findest du auf [dieser Seite](andere-stammtische.html)
+... findest du auf [dieser Seite](/andere-stammtische)
