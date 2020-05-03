@@ -59,7 +59,7 @@ now = new Date(now.getFullYear(), now.getMonth(), now.getDate())
 return  now <= thisSaturday ? thisSaturday : nextSaturday;
 }
 
-val next = nextRoundtable()
-document.getElementById('next').innerHtml = next.getDate() + '.' + (next.getMonth() + 1) + '.'
+val next = nextRoundtable();
+document.getElementById('next').innerHTML = next.getDate() + '.' + (next.getMonth() + 1) + '.';
 </script>
 
