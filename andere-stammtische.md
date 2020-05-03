@@ -12,3 +12,5 @@ Auf der Seite des [Polyamores Netzwerk e.V.](https://www.polyamory.de/regionale-
 | ⏸️ Pausiert   | [Münster](https://polyamorie-muenster.blogspot.com/)
 | 🌍 Online     | [Soest](https://www.polyamory.de/papageienstammtisch-soest) |
 | ❓ Unbekannt  | [Vechta](https://anders-lieben-vechta.de/) |
+
+< [zurück zur Startseite)(/)
