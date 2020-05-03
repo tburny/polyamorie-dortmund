@@ -7,9 +7,9 @@
 💡 Sobald sich die Ansteckungsgefahr für Corona wieder ausreichend reduziert hat suchen wir uns eine feste Örtlichkeit für unsere Treffen.
 
 ### Termine 2019: 
-Nächster Termin: <span id='next'>(bitte JavaScript aktivieren)</span>
+**Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
 
-Termine 2020: 16.5., 20.6., 18.7., 15.8., 19.9., 17.10., 21.11., 19.12. 
+**Termine 2020:** 16.5., 20.6., 18.7., 15.8., 19.9., 17.10., 21.11., 19.12. 
 
 🗓️ [Zum Kalender hinzufügen](/Polystammtisch_Dortmund.ics)
 
