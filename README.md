@@ -11,7 +11,7 @@
 
 Nächster Stammtisch: <span id='next'></span>
 
-iCal: (Zum Kalender hinzufügen)[/Polystammtisch_Dortmund.ics]
+iCal: [Zum Kalender hinzufügen](/Polystammtisch_Dortmund.ics)
 
 
 ## Wie nehme ich teil?
