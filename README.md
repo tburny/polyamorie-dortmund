@@ -9,7 +9,7 @@
 ## Termine 
 **Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
 
-**Weitere Termine:** 16.5., 20.6., 18.7., 15.8., 19.9., 17.10., 21.11., 19.12. 
+**Weitere Termine:** 18.7., 15.8., 19.9., 17.10., 21.11., 19.12. 
 
 🗓️ [Zum Kalender hinzufügen](/Polystammtisch_Dortmund.ics)
 
