@@ -9,7 +9,7 @@ Auf der Seite des [Polyamores Netzwerk e.V.](https://www.polyamory.de/regionale-
 | ❓ Unbekannt  | [Düsseldorf](https://polytreff.wordpress.com/termine/) |
 | 🖼️ Offline, drinne, mit Voranmeldung  | [Essen](https://www.facebook.com/groups/980135342024444/) |
 | 🌍 Online     | [Köln](https://www.poly-koeln.de/termine/) |
-| 🖼️ Offline, draußen  | [Münster](https://polyamorie-muenster.blogspot.com/)
+| 🌍 Online     | [Münster](https://polyamorie-muenster.blogspot.com/)
 | 🌍 Online     | [Soest](https://www.polyamory.de/papageienstammtisch-soest) |
 
 < [zurück zur Startseite](/)
