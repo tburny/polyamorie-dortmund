@@ -2,9 +2,9 @@
  
 🕖 **Wann:** Jeden 3. Samstag im Monat um 19 Uhr.
 
-📌 **Wo:** Aktuell per Jitsi unter [https://8x8.vc/polydo/Hausflur](https://8x8.vc/polydo/Hausflur)
+📌 **Wo:** Uncle Tom's, Arneckestraße 76, Dortmund (&rarr; [OpenStreetMaps](https://www.openstreetmap.org/node/6538598313) / [Google Maps](https://goo.gl/maps/Z9YYa3iWJTDcQNVS7))
 
-💡 Sobald sich die Ansteckungsgefahr für Corona wieder ausreichend reduziert hat suchen wir uns eine feste Örtlichkeit für unsere Treffen.
+😷 *3G-Regelung + tagesaktueller Test:* Die Teilnahme ist nur für Personen möglich, die entweder _geimpft_, _genesen_ oder _getestet sind_. Unabhängig davon solltet ihr wegen der Möglichkeit eines Impfdurchbruchst einen _tagesaktuellen Test_ vorweisen können.
 
 ## Termine 
 **Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
@@ -25,7 +25,7 @@ Klicke auf den Link. Die Aufforderung zum Installieren der Chrome-Erweiterung ka
 3. Tippe erneut auf den Link oben
 
 ### Telegram-Gruppe
-✈️ [Hier beitreten](https://t.me/joinchat/HIGCOFcKw4eQbhBY3PeCIQ) - wir schicken dir dann den Link zur richtigen Gruppe zu. Dies dient dem Schutz vor Spam und Trollen.
+✈️ [Hier beitreten](https://t.me/joinchat/RxKAXl18puxmOWUy) - wir schicken dir dann den Link zur richtigen Gruppe zu. Dies dient dem Schutz vor Spam und Trollen.
 
 
 ## Andere Stammtische in der Region Nordrhein-Westfalen
