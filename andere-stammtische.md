@@ -7,9 +7,9 @@ Auf der Seite des [Polyamores Netzwerk e.V.](https://www.polyamory.de/regionale-
 | ❓ Unbekannt  | [Bonn](https://www.polyamory.de/polyamorie-stammtisch-bonn-bonner-polygespraechskreis) |
 | 🌍 Online     | [Dortmund (dieser Stammtisch)](https://polyamorie-dortmund.de/) |
 | ❓ Unbekannt  | [Düsseldorf](https://polytreff.wordpress.com/termine/) |
-| 🖼️ Offline, drinne, mit Voranmeldung  | [Essen](https://www.facebook.com/groups/980135342024444/) |
-| 🌍 Online     | [Köln](https://www.poly-koeln.de/termine/) |
-| 🌍 Online     | [Münster](https://polyamorie-muenster.blogspot.com/)
+| 🖼️ Real life  | [Essen](https://www.facebook.com/groups/980135342024444/) |
+| 🌍 Real Life  | [Köln](https://www.poly-koeln.de/polyamorie-termine/) |
+| 🖼️ Real life  | [Münster](https://www.polyamorie-muenster.de/)
 | 🌍 Online     | [Soest](https://www.polyamory.de/papageienstammtisch-soest) |
 
 < [zurück zur Startseite](/)
