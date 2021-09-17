@@ -6,10 +6,10 @@ Auf der Seite des [Polyamores Netzwerk e.V.](https://www.polyamory.de/regionale-
 | 🌍 Online     | [Aachen](https://polyamorie-aachen.de/) |
 | ❓ Unbekannt  | [Bonn](https://www.polyamory.de/polyamorie-stammtisch-bonn-bonner-polygespraechskreis) |
 | 🖼️ Real life  | [Bottrop / Oberhausen - Pottpolys](http://pottpolys.de/termine/) |
-| 🌍 Online     | [Dortmund (dieser Stammtisch)](https://polyamorie-dortmund.de/) |
+| 🖼️ Real life  | [Dortmund (dieser Stammtisch)](https://polyamorie-dortmund.de/) |
 | ❓ Unbekannt  | [Düsseldorf](https://polytreff.wordpress.com/termine/) |
 | 🖼️ Real life  | [Essen](https://www.facebook.com/groups/980135342024444/) |
-| 🌍 Real Life  | [Köln](https://www.poly-koeln.de/polyamorie-termine/) |
+| 🖼️ Real life  | [Köln](https://www.poly-koeln.de/polyamorie-termine/) |
 | 🖼️ Real life  | [Münster](https://www.polyamorie-muenster.de/)
 | 🌍 Online     | [Soest](https://www.polyamory.de/papageienstammtisch-soest) |
 
