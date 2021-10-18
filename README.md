@@ -11,7 +11,7 @@ Solltest du dich krank fühlen oder Erkältungssymptome haben bitten wir dich, v
 ## Termine 
 **Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
 
-**Weitere Termine:** 18.09.2021, 16.10.2021, 20.11.2021, 18.12.2021
+**Weitere Termine:** 18.12.2021, 15.1.2022
 
 🗓️ [Zum Kalender hinzufügen](/Polystammtisch_Dortmund.ics)
 
