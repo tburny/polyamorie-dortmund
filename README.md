@@ -11,7 +11,7 @@
 
 Zusätzlich gelten die gesetzlichen Regelungen sowie die Regelungen am Veranstaltungsort.
 
-Solltest du dich krank fühlen oder Erkältungssymptome haben bitten wir dich, von einer Teilnahme abzusehen.
+*Solltest du dich krank fühlen oder Erkältungssymptome haben bitten wir dich, von einer Teilnahme abzusehen.*
 
 ## Termine 
 **Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
