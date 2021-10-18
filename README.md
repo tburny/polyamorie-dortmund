@@ -9,6 +9,8 @@
 * _genesen_ sind
 * oder einen _tagesaktuellen Test_ vorweisen können.
 
+Zusätzlich gelten die gesetzlichen Regelungen sowie die Regelungen am Veranstaltungsort.
+
 Solltest du dich krank fühlen oder Erkältungssymptome haben bitten wir dich, von einer Teilnahme abzusehen.
 
 ## Termine 
