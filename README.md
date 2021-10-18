@@ -5,11 +5,9 @@
 📌 **Wo:** Uncle Tom's, Arneckestraße 76, Dortmund (&rarr; [OpenStreetMaps](https://www.openstreetmap.org/node/6538598313) / [Google Maps](https://goo.gl/maps/Z9YYa3iWJTDcQNVS7))
 
 😷 **Teilnahme = 3G-Regelung** Die Teilnahme ist nur für Personen möglich, die entweder
-* _geimpft_ sind
-* _genesen_ sind
-* oder einen _tagesaktuellen Test_ vorweisen können.
-
-Zusätzlich gelten die gesetzlichen Regelungen sowie die Regelungen am Veranstaltungsort.
+* 💉💉 _fertig geimpft_ sind
+* 🙂 _genesen_ sind
+* oder einen 📝 _tagesaktuellen Test_ vorweisen können.
 
 *Solltest du dich krank fühlen oder Erkältungssymptome haben bitten wir dich, von einer Teilnahme abzusehen.*
 
