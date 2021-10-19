@@ -22,18 +22,6 @@
 ### Telegram-Gruppe
 ✈️ [Hier beitreten](https://t.me/joinchat/RxKAXl18puxmOWUy) - wir schicken dir dann den Link zur richtigen Gruppe zu. Dies dient dem Schutz vor Spam und Trollen.
 
-
-## Teilnahme an ONLINE Stammtischen
-**Wichtig:** Der _Hausflur_ ist nur der Vorraum und dient dem Schutz vor Trollen. Wir schicken dir den Link zum richtigen Raum dann per Direkt-Nachricht im Videochat.
-
-**... 💻 per Computer**
-Klicke auf den Link. Die Aufforderung zum Installieren der Chrome-Erweiterung kannst du getrost ignorieren.
-
-**... 📲 per Smartphone**
-1. Tippe auf den Link oben. Es erscheint ein Fenster.
-2. Tippe auf "Continue to the App". Installiere diese (du musst dich nicht registrieren)
-3. Tippe erneut auf den Link oben
-
 ## Andere Stammtische in der Region Nordrhein-Westfalen
 ... findest du auf [dieser Seite](/andere-stammtische)
 
