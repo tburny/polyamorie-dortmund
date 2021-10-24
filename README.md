@@ -24,8 +24,8 @@
 
 Du bist außerdem herzlich eingeladen, dich in unserer Orga-Gruppe zu engagieren.
 
-### 📋 Verhaltenskodex
-Gibt es aktuell noch nicht, es ist aber wie auf allen anderen Stammtischen auch: 
+### 📋 Regeln
+Es ist wie auf allen anderen Stammtischen auch: 
 * Seid lieb und nett zueinander. 
 * Der Stammtisch ist _keine Dating-Börse._
 * Bitte frage andere Menschen explizit um Erlaubnis, bevor du sie per Direktnachricht anschreibst.
