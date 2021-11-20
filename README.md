@@ -13,10 +13,6 @@
 
 🗓️ [Zum Kalender hinzufügen](/Polystammtisch_Dortmund.ics)
 
-## Termine für die Talkrunde im Offenen Zentrum
-Es gibt in Dortmund eine - unabhängige - Talkrunde, die sich jeden vierten Freitag im Monat im Offenen Zentrum trifft.
-
-
 ### Telegram-Gruppe
 ✈️ [Hier beitreten](https://t.me/joinchat/RxKAXl18puxmOWUy) - wir schicken dir dann den Link zur richtigen Gruppe zu. Dies dient dem Schutz vor Spam und Trollen.
 
@@ -30,6 +26,11 @@ Es ist wie auf allen anderen Stammtischen auch:
 * ...
 
 Im Zweifel: Einfach fragen!
+
+
+## Polyamorie Treff im Offenen Zentrum
+Es gibt in Dortmund eine - unabhängige - Talkrunde, die sich jeden vierten Freitag im Monat im Offenen Zentrum trifft. Weitere Informationen findest du unter https://www.offeneszentrum.de/termin/polyamorie-treff/
+
 
 ## Andere Stammtische in der Region Nordrhein-Westfalen
 ... findest du auf [dieser Seite](/andere-stammtische)
