@@ -2,14 +2,9 @@
  
 🕖 **Wann:** Jeden 3. Samstag im Monat um 19 Uhr.
 
-📌 **Wo:** Uncle Tom's, Arneckestraße 76, Dortmund (&rarr; [OpenStreetMaps](https://www.openstreetmap.org/node/6538598313) / [Google Maps](https://goo.gl/maps/Z9YYa3iWJTDcQNVS7))
+📌 **Wo:** Online - Link wird per Telegram bekannt gegeben
 
-😷 **Teilnahme = 3G-Regelung:** Die Teilnahme ist nur für Personen möglich, die entweder
-* 💉💉 _fertig geimpft_ sind
-* 🙂 _genesen_ sind
-* oder einen 📝 _tagesaktuellen Test_ vorweisen können.
-
-*Solltest du dich krank fühlen oder Erkältungssymptome haben bitten wir dich, von einer Teilnahme abzusehen.*
+(Normalerweise treffen wir uns im Uncle Tom's, aber aufgrund der aktuellen Corona Lage ist der Stammtisch seit November 2021 erstmal wieder online)
 
 ## Termine 
 **Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
