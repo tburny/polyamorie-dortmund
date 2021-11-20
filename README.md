@@ -6,12 +6,15 @@
 
 (Normalerweise treffen wir uns im Uncle Tom's, aber aufgrund der aktuellen Corona Lage ist der Stammtisch seit November 2021 erstmal wieder online)
 
-## Termine 
+## Termine für den Stammtisch
 **Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
 
 **Weitere Termine:** 18.12.2021, 15.1.2022
 
 🗓️ [Zum Kalender hinzufügen](/Polystammtisch_Dortmund.ics)
+
+## Termine für die Talkrunde im Offenen Zentrum
+Es gibt in Dortmund eine - unabhängige - Talkrunde, die sich jeden vierten Freitag im Monat im Offenen Zentrum trifft.
 
 
 ### Telegram-Gruppe
