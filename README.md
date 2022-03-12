@@ -9,7 +9,7 @@
 ## Termine für den Stammtisch
 **Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
 
-**Weitere Termine:** 18.12.2021, 15.1.2022
+**Weitere Termine:** 19.3.2022, 16.4.2022
 
 🗓️ [Zum Kalender hinzufügen](/Polystammtisch_Dortmund.ics)
 
@@ -29,7 +29,7 @@ Im Zweifel: Einfach fragen!
 
 
 ## Polyamorie Treff im Offenen Zentrum
-Es gibt in Dortmund eine - unabhängige - Talkrunde, die sich jeden vierten Freitag im Monat im Offenen Zentrum trifft. Weitere Informationen findest du unter https://www.offeneszentrum.de/termin/polyamorie-treff/
+Es gibt in Dortmund eine - unabhängige - Talkrunde, die sich jeden vierten Freitag im Monat im Offenen Zentrum trifft. Weitere Informationen findest du unter [https://www.offeneszentrum.de/termin/polyamorie-treff/](https://www.offeneszentrum.de/termin/polyamorie-treff/)
 
 
 ## Andere Stammtische in der Region Nordrhein-Westfalen
