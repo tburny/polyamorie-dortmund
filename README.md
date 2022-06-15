@@ -9,7 +9,7 @@
 * Falls du dich krank/unwohl fühlst oder du Kontakt zu einer positiv getesteten Person hattest bitten wir dich zu Hause zu bleiben. Der nächste Stammtisch kommt bestimmt!
 * Das Tragen einer FFP2-Maske in Innenräumen wird empfohlen
 * Idealerweise bist du fertig geimpft und/oder genesen
-* 
+
 ## Termine für den Stammtisch
 
 **Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
