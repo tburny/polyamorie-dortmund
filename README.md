@@ -2,14 +2,17 @@
  
 🕖 **Wann:** Jeden 3. Samstag im Monat um 19 Uhr.
 
-📌 **Wo:** Online - Link wird per Telegram bekannt gegeben
+📌 **Wo:** [Uncle Toms, Arneckestr. 76, Dortmund, DE 44139](https://www.openstreetmap.org/node/6538598313)
 
-(Normalerweise treffen wir uns im Uncle Tom's, aber aufgrund der aktuellen Corona Lage ist der Stammtisch seit November 2021 erstmal wieder online)
-
+😷 **Corona-Regeln:**
+* Zur Teilnahme wird ein _tagesaktueller, negativer Schnelltest_ benötigt.
+* Falls du dich krank/unwohl fühlst oder du Kontakt zu einer positiv getesteten Person hattest bitten wir dich zu Hause zu bleiben. Der nächste Stammtisch kommt bestimmt!
+* Das Tragen einer FFP2-Maske in Innenräumen wird empfohlen
+* Idealerweise bist du fertig geimpft und/oder genesen
+* 
 ## Termine für den Stammtisch
-**Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
 
-**Weitere Termine:** 19.3.2022, 16.4.2022
+**Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
 
 🗓️ [Zum Kalender hinzufügen](/Polystammtisch_Dortmund.ics)
 
@@ -30,6 +33,8 @@ Im Zweifel: Einfach fragen!
 
 ## Polyamorie Treff im Offenen Zentrum
 Es gibt in Dortmund eine - unabhängige - Talkrunde, die sich jeden vierten Freitag im Monat im Offenen Zentrum trifft. Weitere Informationen findest du unter [https://www.offeneszentrum.de/termin/polyamorie-treff/](https://www.offeneszentrum.de/termin/polyamorie-treff/)
+
+Der Polyamorie Treff im Offenen Zentrum findet bis August 2022 leider nicht statt.
 
 
 ## Andere Stammtische in der Region Nordrhein-Westfalen
