@@ -31,7 +31,11 @@ Es ist wie auf allen anderen Stammtischen auch:
 Im Zweifel: Einfach fragen!
 
 ## Kontakt
-Idealerweise kommst du einfach in unsere Telegram-Gruppe. Falls du kein Telegram hast (haben möchtest), kannst du alternativ folgenden Link verwenden, um uns eine Nachricht zu schicken:
+### per Telegram (bevorzugt)
+Idealerweise kommst du einfach in unsere Telegram-Gruppe.
+
+### per Kontaktformular
+Falls du kein Telegram hast (haben möchtest), kannst du uns natürlich trotzdem kontaktieren. Verwende hierzu bitte das
 [Kontaktformular](https://forms.gle/6R3VjdDMcrHCSKWV8)
 
 ## Polyamorie Treff im Offenen Zentrum
