@@ -34,9 +34,10 @@ Im Zweifel: Einfach fragen!
 ### per Telegram (bevorzugt)
 Idealerweise kommst du einfach in unsere Telegram-Gruppe.
 
-### per Kontaktformular
-Falls du kein Telegram hast (haben möchtest), kannst du uns natürlich trotzdem kontaktieren. Verwende hierzu bitte das
-[Kontaktformular](https://forms.gle/6R3VjdDMcrHCSKWV8)
+### per Email
+Klicke auf folgenden Link, um unsere Mailadresse anzuzeigen: <a href="https://mailhide.io/e/SKWVBoKN" onclick="popup=window.open('https://mailhide.io/e/SKWVBoKN','mailhidepopup','width=580,height=635'); return false;">p......@posteo.de</a> 
+
+Du wirst auf mailhide.io umgeleitet. Dies dient dazu, unsere Mail-Adresse vor Spam zu schützen.
 
 ## Polyamorie Treff im Offenen Zentrum
 Es gibt in Dortmund eine - unabhängige - Talkrunde, die sich jeden vierten Freitag im Monat im Offenen Zentrum trifft. Weitere Informationen findest du unter [https://www.offeneszentrum.de/termin/polyamorie-treff/](https://www.offeneszentrum.de/termin/polyamorie-treff/)
