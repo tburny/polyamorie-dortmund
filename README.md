@@ -30,6 +30,9 @@ Es ist wie auf allen anderen Stammtischen auch:
 
 Im Zweifel: Einfach fragen!
 
+## Kontakt
+Idealerweise kommst du einfach in unsere Telegram-Gruppe. Falls du kein Telegram hast (haben möchtest), kannst du alternativ folgenden Link verwenden, um uns eine Nachricht zu schicken:
+[Kontaktformular](https://forms.gle/6R3VjdDMcrHCSKWV8)
 
 ## Polyamorie Treff im Offenen Zentrum
 Es gibt in Dortmund eine - unabhängige - Talkrunde, die sich jeden vierten Freitag im Monat im Offenen Zentrum trifft. Weitere Informationen findest du unter [https://www.offeneszentrum.de/termin/polyamorie-treff/](https://www.offeneszentrum.de/termin/polyamorie-treff/)
