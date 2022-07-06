@@ -44,6 +44,11 @@ Es gibt in Dortmund eine - unabhängige - Talkrunde, die sich jeden vierten Frei
 
 Der Polyamorie Treff im Offenen Zentrum findet bis August 2022 leider nicht statt.
 
+## Polyamorer Erlebnisaustausch (PERLE) - Discord
+Der Polyamorer Erlebnisaustausch (PERLE) findet dreimal pro Jahr als Online-Veranstaltung statt. Der PERLE Discord Server bietet zudem die Möglichkeit, sich relativ einfach mit anderen Menschen zu vernetzen und auszutauschen.
+Weitere Informationen und Registrierung auf https://perle.live
+
+Zur Registrierung benötigst du ein Passwort, dass du bei der Stammtischleitung anfragen kannst.
 
 ## Andere Stammtische in der Region Nordrhein-Westfalen
 ... findest du auf [dieser Seite](/andere-stammtische)
