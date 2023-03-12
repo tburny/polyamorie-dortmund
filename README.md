@@ -48,25 +48,49 @@ Zur Registrierung benötigst du ein Passwort, dass du bei der Stammtischleitung 
 ... findest du auf [dieser Seite](/andere-stammtische)
 
 <script src="/assets/scripts/termine.js"></script>
+End Date
+2020-05-16T20:00:00.000Z
+Description
+Online-Stammtisch für nicht-monogame Beziehungsformen
+Event Status
+https://schema.org/EventScheduled
+Event Attendance Mode
+https://schema.org/OfflineEventAttendanceMode
+Image
+Offers
+Performer
+Remaining Attendee Capacity
+Maximum Attendee Capacity
+Typical Age Range
+In Language
+Language
+de
+Generated Markup
+JSON-LD
+Deploy
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
+  "@context": "https://schema.org/",
   "@type": "Event",
   "name": "Polystammtisch Dortmund",
-  "startDate": "2020-05-16T19:00:00+02:00",
-  "endDate": "2020-05-16T22:00+02:00",
-  "eventStatus": "https://schema.org/EventScheduled",
-  "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
   "location": {
-    "@type": "VirtualLocation",
-    "url": "https://polystammtisch-dortmund.de/"
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "postalCode": "44139",
+      "streetAddress": "Arneckestraße 76",
+      "addressCountry": "de"
     },
-  "image": [],
-  "description": "Online-Stammtisch für nicht-monogame Beziehungsformen",
-  "organizer": {
-    "@type": "Organization",
-    "name": "Polystammtisch Dortmund",
+    "name": "Uncle Tom's",
     "url": "https://polystammtisch-dortmund.de/"
-  }
+  },
+  "startDate": "2020-05-16T17:00:00.000Z",
+  "endDate": "2020-05-16T20:00:00.000Z",
+  "description": "Online-Stammtisch für nicht-monogame Beziehungsformen",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "image": [],
+  "typicalAgeRange": "",
+  "inLanguage": "de"
 }
- </script>
+</script>
