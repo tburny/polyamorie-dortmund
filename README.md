@@ -79,7 +79,8 @@ Deploy
       "@type": "PostalAddress",
       "postalCode": "44139",
       "streetAddress": "Arneckestraße 76",
-      "addressCountry": "de"
+      "addressCountry": "de",
+      "addressLocality": "Dortmund"
     },
     "name": "Uncle Tom's",
     "url": "https://polystammtisch-dortmund.de/"
