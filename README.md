@@ -5,9 +5,8 @@
 📌 **Wo:** [Uncle Toms, Arneckestr. 76, Dortmund, DE 44139](https://www.openstreetmap.org/node/6538598313)
 
 😷 **Corona-Regeln:**
-* Zur Teilnahme wird ein _tagesaktueller, negativer Schnelltest_ benötigt.
+- ❣️ Macht vor dem Treff bitte einen Schnelltest zuhause und helft damit mit, den Stammtisch zu einem sichereren Ort zu machen.
 * Falls du dich krank/unwohl fühlst oder du Kontakt zu einer positiv getesteten Person hattest bitten wir dich zu Hause zu bleiben. Der nächste Stammtisch kommt bestimmt!
-* Das Tragen einer FFP2-Maske in Innenräumen wird empfohlen
 * Idealerweise bist du fertig geimpft und/oder genesen
 
 ## Termine für den Stammtisch
@@ -38,11 +37,6 @@ Idealerweise kommst du einfach in unsere Telegram-Gruppe.
 Klicke auf folgenden Link, um unsere Mailadresse anzuzeigen: <a href="https://mailhide.io/e/SKWVBoKN" onclick="popup=window.open('https://mailhide.io/e/SKWVBoKN','mailhidepopup','width=580,height=635'); return false;">p......@posteo.de</a> 
 
 Du wirst auf mailhide.io umgeleitet. Dies dient dazu, unsere Mail-Adresse vor Spam zu schützen.
-
-## Polyamorie Treff im Offenen Zentrum
-Es gibt in Dortmund eine - unabhängige - Talkrunde, die sich jeden vierten Freitag im Monat im Offenen Zentrum trifft. Weitere Informationen findest du unter [https://www.offeneszentrum.de/termin/polyamorie-treff/](https://www.offeneszentrum.de/termin/polyamorie-treff/)
-
-Der Polyamorie Treff im Offenen Zentrum findet bis August 2022 leider nicht statt.
 
 ## Polyamorer Erlebnisaustausch (PERLE) - Discord
 Der Polyamorer Erlebnisaustausch (PERLE) findet dreimal pro Jahr als Online-Veranstaltung statt. Der PERLE Discord Server bietet zudem die Möglichkeit, sich relativ einfach mit anderen Menschen zu vernetzen und auszutauschen.
