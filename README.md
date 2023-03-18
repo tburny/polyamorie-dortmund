@@ -11,6 +11,8 @@
 
 ## Termine für den Stammtisch
 
+*Der Stammtisch am 18.3.2023 fällt leider aus*
+
 **Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
 
 🗓️ [Zum Kalender hinzufügen](/Polystammtisch_Dortmund.ics)
