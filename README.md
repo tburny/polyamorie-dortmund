@@ -4,8 +4,10 @@
 
 📌 **Wo:** [Uncle Toms, Arneckestr. 76, Dortmund, DE 44139](https://www.openstreetmap.org/node/6538598313)
 
+♿ Das Uncle Tom's ist leider nicht barrierefrei - es hat drei Stufen am Eingang und die Toiletten sind eine längere Treppe in den Keller hinunter. Falls du dir unsicher bist, ob die Location für dich geeignet ist, kontaktiere bitte die Orga. Uns ist das Thema barrierefreiheit bewusst und wir arbeiten im Rahmen unserer Kapazitäten bereits an einer Lösung. 
+
 😷 **Corona-Regeln:**
-- ❣️ Macht vor dem Treff bitte einen Schnelltest zuhause und helft damit mit, den Stammtisch zu einem sichereren Ort zu machen.
+- ❣️ Auch wenn es keine Pflicht ist, empfehlen wir dir besonders in der Erkältungszeit einen Schnelltest zuhause zu machen und den Stammtisch zu einem sichereren Ort zu machen.
 * Falls du dich krank/unwohl fühlst oder du Kontakt zu einer positiv getesteten Person hattest bitten wir dich zu Hause zu bleiben. Der nächste Stammtisch kommt bestimmt!
 * Idealerweise bist du fertig geimpft und/oder genesen
 
