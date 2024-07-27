@@ -11,6 +11,8 @@
 * Falls du dich krank/unwohl fühlst oder du Kontakt zu einer positiv getesteten Person hattest bitten wir dich zu Hause zu bleiben. Der nächste Stammtisch kommt bestimmt!
 * Idealerweise bist du fertig geimpft und/oder genesen
 
+🦕 Bring your own fidget tools! Wir finden fidget tools super und du kannst deine Lieblingstools gerne mitbringen. 
+
 ## Termine für den Stammtisch
 
 **Nächster Termin:** <span id='next'>(bitte JavaScript aktivieren)</span>
